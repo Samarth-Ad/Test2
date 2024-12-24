@@ -1,6 +1,6 @@
 {
-    "name": "energy_monitoring_app",
-    "short_name": "energy_monitoring_app",
+    "name": "electricity_app_home",
+    "short_name": "electricity_app_home",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
